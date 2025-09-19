@@ -4,7 +4,7 @@
 // const connection =mysql.createConnection({
 //     host: 'localhost',
 //     user: 'root',
-//     password: 'Chahat@123',
+//     password: 'password',
 //     database: 'smart_home'
 // });
 
@@ -14,3 +14,4 @@
 // });
 
 // module.exports = connection;
+
